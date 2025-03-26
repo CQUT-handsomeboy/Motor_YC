@@ -1,0 +1,6 @@
+MDK-ARM/motor/*
+MDK-ARM/DebugConfig/*
+MDK-ARM/RTE/*
+
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
